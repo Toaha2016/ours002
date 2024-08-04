@@ -11,6 +11,10 @@
   --max-width: 1200px;
 }
 
+.bigman{
+    max-width: 40%;
+}
+
 * {
   padding: 0;
   margin: 0;
